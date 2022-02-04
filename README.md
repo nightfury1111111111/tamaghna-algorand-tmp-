@@ -2,7 +2,7 @@
                      &&&by vigorous developer(night fury)&&&
 
 This  project works on testnet and you can check the result.
-Decentralized 2fa requires these 3 functions used in this code.
+Decentralized 2fa requires these 3 functions used in this code.\n
         createAccount
         createAsset
         transferAsset
