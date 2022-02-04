@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# ignore node_modules
+node_modules/**/*
+
+# except
+!.ebextensions/
+!.elasticbeanstalk/
+!dist/**/
+!/package.json
+
+.env
+

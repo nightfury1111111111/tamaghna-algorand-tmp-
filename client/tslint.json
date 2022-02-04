@@ -1,0 +1,18 @@
+{
+  "extends": ["tslint-react", "tslint-config-prettier"],
+  "rules": {
+    "no-console": false,
+    "ordered-imports": false,
+    "jsx-no-lambda": false,
+    "no-implicit-any": false,
+    "quotemark": [true, "single"],
+    "no-irregular-whitespace": true,
+    "no-trailing-whitespace": true,
+    "no-unused-variable": true
+    
+  },
+  "defaultSeverity": "warn",
+  "linterOptions": {
+    "exclude": ["config/**/*.js", "node_modules/**/*.ts"]
+  }
+}

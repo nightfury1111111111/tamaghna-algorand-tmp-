@@ -1,0 +1,21 @@
+# general
+.DS_Store
+.env
+
+#Dependencies
+node_modules/
+
+# api
+server/dist
+server/.env
+
+# client
+client/build
+client/.env
+
+
+
+
+
+
+
