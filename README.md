@@ -2,10 +2,17 @@
                      &&&by vigorous developer(night fury)&&&
 
 This  project works on testnet and you can check the result.
-Decentralized 2fa requires these 3 functions used in this code.\n
+Decentralized 2fa requires these 3 functions used in this code.
+        
         createAccount
+        
+        
         createAsset
+        
+        
         transferAsset
+        
+        
 If you register to our site, they must have an account or create new account.---createAccount
 And he/she must have an asset create an Asset to verify.---createAsset
 By using this he can transfer that to the server and verify.---transfer
