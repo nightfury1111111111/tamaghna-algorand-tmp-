@@ -13,9 +13,11 @@ Decentralized 2fa requires these 3 functions used in this code.
         transferAsset
         
         
-If you register to our site, they must have an account or create new account.---createAccount
-And he/she must have an asset create an Asset to verify.---createAsset
-By using this he can transfer that to the server and verify.---transfer
+If you register to our site, they must have an account or create new account.---createAccount.
+
+And he/she must have an asset create an Asset to verify.---createAsset.
+
+By using this he can transfer that to the server and verify.---transfer.
 
 You can check these funcions from here.
 So we can make 2fa easily with this boilerplate.  
